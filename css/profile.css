@@ -1,0 +1,39 @@
+.profile {
+  width: 90%;
+  border-radius: 10%;
+  height: auto;
+  margin: 20px;
+}
+
+img {
+  position: relative;
+  display: inline;
+}
+.info {
+  margin-top: 100px;
+  font-family: Montserrat;
+}
+.pro {
+  font-family: Montserrat;
+  font-size: 2rem;
+  padding-right: 10px;
+}
+.name {
+  margin-left: 70px;
+}
+h2 {
+  padding: 15px;
+  margin-top: 20px;
+}
+.review {
+  border-radius: 100%;
+}
+.review2 {
+  border-radius: 100%;
+  width: 14%;
+}
+.rev {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
